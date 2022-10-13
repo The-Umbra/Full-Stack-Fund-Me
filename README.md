@@ -1,4 +1,4 @@
-# Full-Stack-Fund-Me PROCJECT
+# Full-Stack-Fund-Me PROJECT
 
 This project was developed by following FreeCodeCamp "Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course" to learn Web 3.0.
 
